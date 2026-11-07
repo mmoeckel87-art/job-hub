@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "job-hub-local"
+version = "0.1.0"
+description = "Private, self-hosted job research and application dashboard"
+requires-python = ">=3.9"
+license = {file = "LICENSE"}
+dependencies = ["pypdf>=4", "python-docx>=1", "Pillow>=10", "fpdf2>=2.8"]
+
+[tool.setuptools.packages.find]
+include = ["job_monitor*"]
+
+[tool.setuptools.package-data]
+job_monitor = ["*.md"]

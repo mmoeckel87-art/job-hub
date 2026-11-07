@@ -1,0 +1,22 @@
+# Runtime and private material
+job_monitor/data/
+.env
+.env.*
+!.env.example
+smtp.env
+*.pem
+*.key
+*.p12
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.log
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.DS_Store
+dist/
+*.zip

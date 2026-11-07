@@ -1,0 +1,62 @@
+[
+  {
+    "synthetic": true,
+    "url": "https://example.invalid/jobs/head-bd",
+    "source_type": "company_career_page",
+    "company": "Example Energy GmbH",
+    "title": "Head of Business Development (m/w/d)",
+    "location": "Beispielstadt",
+    "remote": "hybrid",
+    "travel_pct": 20,
+    "relocation_required": false,
+    "language_ok": true,
+    "full_time": true,
+    "is_open": true,
+    "verified_at": null,
+    "required_start_by": null,
+    "company_stage": "mittelstand",
+    "role_family": "head_bd",
+    "growth_mandate": true,
+    "career_step": "step_up",
+    "levers": [
+      "aufbau_neue_funktion"
+    ],
+    "fit": {
+      "domain": {
+        "score": 0.9,
+        "evidence": "Ladeinfrastruktur / Electrification, industrielle Kunden"
+      },
+      "function": {
+        "score": 0.9,
+        "evidence": "Aufbau BD-Team, GTM neue Märkte"
+      },
+      "conditions": {
+        "score": 0.8,
+        "evidence": "Fiktiver hybrider Arbeitsort, 20 % Reisen"
+      },
+      "mission": {
+        "score": 0.8,
+        "evidence": "Energiewende-Produkte"
+      }
+    },
+    "comp": {
+      "fix_min": 80000,
+      "fix_max": 95000,
+      "variable_target": 10000,
+      "ote": 90000,
+      "source": "employer",
+      "source_note": "Fiktive Beispielwerte",
+      "bonus_realism": "uncertain"
+    },
+    "why_relevant": [
+      "Electrification",
+      "Aufbau BD-Funktion",
+      "Industrial B2B"
+    ],
+    "career_progress": "Disziplinarische Führung von 4 BD Managern, Bericht an CEO",
+    "mission_link": "Beitrag zu nachhaltiger Energie",
+    "open_points": "Bonusmodell im Detail",
+    "recommendation": "Gespräch anfragen",
+    "summary": "Fiktives Beispiel: Vertrieb und Partnerschaften für Energietechnik aufbauen. Die Rolle führt ein kleines Team und arbeitet hybrid; Budget und Berichtslinie sind nicht angegeben."
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "owner": "Demo User",
+  "updated_at": "2026-11-07",
+  "positioning": null,
+  "confirmed": {
+    "education": null,
+    "roles": [],
+    "results": [],
+    "leadership": null,
+    "languages": null,
+    "north_star_professional": null,
+    "family_north_star": null,
+    "target_path": null
+  },
+  "must_criteria": {
+    "role_families": [],
+    "growth_mandate_required": null,
+    "career_step": null,
+    "levers": [],
+    "full_time": null,
+    "languages": [],
+    "locations": null
+  },
+  "preferences": {
+    "remote": null,
+    "travel": null,
+    "company_stage": null,
+    "domains": null,
+    "defence": null
+  },
+  "compensation": {
+    "current_fix": null,
+    "current_variable_target": null,
+    "current_ote": null,
+    "current_variable_typical_paid": null,
+    "current_conservative": null,
+    "previous_year_2025": null,
+    "fix_floor": null,
+    "tiers": {
+      "exceptional_fit": null,
+      "standard": null,
+      "high_risk": null
+    },
+    "exceptional_fit_score": 85,
+    "bonus_realisation_factors": {
+      "realistic": 0.7,
+      "uncertain": 0.35,
+      "unrealistic": 0.0,
+      "unknown": 0.35
+    },
+    "accepted_sources": [
+      "employer",
+      "recruiter",
+      "company_extrapolated"
+    ],
+    "high_risk_flags": [
+      "scaleup_risk",
+      "high_travel",
+      "long_commute",
+      "relocation",
+      "probation_risk"
+    ],
+    "missing_salary_penalty": 10
+  },
+  "notice_period": {
+    "months": null,
+    "end_rule": null,
+    "negotiable_months": null,
+    "negotiable_end_rule": null,
+    "note": null
+  },
+  "thresholds": {
+    "fit_notify": 70,
+    "fit_review": 50,
+    "reverify_hours": 48
+  },
+  "open_points": [
+    "Profil noch nicht ausgefüllt – Antworten auf die Fragenblöcke fehlen"
+  ],
+  "changes": [
+    {
+      "date": "2026-11-07",
+      "change": "Profil-Vorlage angelegt (leer)"
+    }
+  ],
+  "notification": {
+    "channels": [
+      "desktop",
+      "phone_push"
+    ],
+    "email": false
+  },
+  "application": {
+    "auto_send": false,
+    "reply_to": null,
+    "human_touch": false
+  },
+  "extra_sources": [],
+  "paused": true,
+  "contact_signature": null
+}
